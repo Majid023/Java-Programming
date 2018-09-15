@@ -45,7 +45,7 @@ class Example {
  }
   
  public String getBirth() {
-   return(""+day+month+year);
+   return(day+"/"+month+"/"+year);
  }
 }
 
